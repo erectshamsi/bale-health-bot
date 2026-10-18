@@ -4,7 +4,7 @@ import random
 import urllib.request
 
 BOT_TOKEN = "785765554:joOk2VXb5fly_tmuiqVsBM7RnuaHm60LMHg"
-"
+
 BASE_URL = f"https://tapi.bale.ai/bot{BOT_TOKEN}"
 
 CARDS = [
